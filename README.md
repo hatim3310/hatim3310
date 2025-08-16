@@ -164,7 +164,7 @@
 
 <div align="center">
   
-  <a href="[https://hatimlamarti.com](https://laamartihatim.vercel.app/)">
+  <a href="[(https://laamartihatim.vercel.app/)]">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/hatim-lamarti">
