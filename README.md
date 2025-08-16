@@ -6,7 +6,7 @@
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hatim-lamarti)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laamartihatim)
   [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://laamartihatim.vercel.app/)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hatimlamarti3@gmail.com)
  
@@ -90,7 +90,7 @@
 
 
 ### 🌐 Portfolio Website
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hatim3310&repo=portfolio&bg_color=0d1117&text_color=c9d1d9&title_color=00D4AA&hide_border=true&icon_color=00D4AA)](https://laamartihatim.vercel.app/)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hatim3310&repo=portfolio&bg_color=0d1117&text_color=c9d1d9&title_color=00D4AA&hide_border=true&icon_color=00D4AA)(https://laamartihatim.vercel.app/)]
 
 </div>
 
