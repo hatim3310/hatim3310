@@ -7,10 +7,9 @@
 <div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hatim-lamarti)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://hatimlamarti.com)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hatimlamarti0@gmail.com)
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/212770694639)
-  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://laamartihatim.vercel.app/))
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hatimlamarti3@gmail.com)
+ 
 </div>
 
 ---
@@ -89,14 +88,9 @@
 
 <div align="center">
 
-### 🏆 KhedmatMaroc - Service Platform
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hatim3310&repo=KhedmatMaroc&bg_color=0d1117&text_color=c9d1d9&title_color=00D4AA&hide_border=true&icon_color=00D4AA)](https://github.com/hatim3310/KhedmatMaroc)
-
-### 📊 F1 Analytics Dashboard
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hatim3310&repo=f1-analytics&bg_color=0d1117&text_color=c9d1d9&title_color=00D4AA&hide_border=true&icon_color=00D4AA)](https://github.com/hatim3310/f1-analytics)
 
 ### 🌐 Portfolio Website
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hatim3310&repo=portfolio&bg_color=0d1117&text_color=c9d1d9&title_color=00D4AA&hide_border=true&icon_color=00D4AA)](https://github.com/hatim3310/portfolio)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hatim3310&repo=portfolio&bg_color=0d1117&text_color=c9d1d9&title_color=00D4AA&hide_border=true&icon_color=00D4AA)](https://laamartihatim.vercel.app/)
 
 </div>
 
@@ -170,18 +164,16 @@
 
 <div align="center">
   
-  <a href="https://hatimlamarti.com">
+  <a href="[https://hatimlamarti.com](https://laamartihatim.vercel.app/)">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/hatim-lamarti">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:hatimlamarti0@gmail.com">
+  <a href="mailto:hatimlamarti3@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://wa.me/212770694639">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
+ 
   
 </div>
 
