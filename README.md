@@ -1,91 +1,273 @@
-🚀 Welcome to Hatim Lamarti's Profile!
-<div align="center"> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> **Hey there!** I'm **Hatim Lamarti** 👨‍💻 - A passionate **Full Stack Developer**, **Data Scientist**, and **AI Enthusiast** with a knack for problem-solving! <br> <br> <a href="https://laamartihatim.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/lamartihatim"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://www.instagram.com/laamarti_hatim/"> <img src="https://img.shields.io/badge/Instagram-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white" /> </a> <a href="mailto:hatimlamarti3@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </div>
-👨‍💻 About Me
+<div align="center">
 
-I'm a Full Stack Developer with a passion for designing and building impactful solutions. From creating scalable web applications to developing AI models, I thrive in bringing ideas to life.
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hatim%20Lamarti&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20•%20Data%20Scientist%20•%20Digital%20Creator&descAlignY=52&descSize=18&descFontColor=fff" />
 
-🎓 Certified by IBM in Python for Data Science, AI & Development
+<!-- Animated Tagline -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Building+Digital+Dreams+into+Reality+✨;Transforming+Data+into+Intelligence+🧠;Creating+Tomorrow's+Solutions+Today+🚀" alt="Typing SVG" />
+</a>
 
-💼 Founder of Vision Vibe, a Digital Creation Agency
+<!-- Social Links with Hover Effects -->
+<br><br>
+<a href="https://laamartihatim.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-6366F1?style=for-the-badge&logoColor=white&labelColor=4F46E5" />
+</a>
+<a href="https://www.linkedin.com/in/lamartihatim">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/laamarti_hatim">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="mailto:hatimlamarti3@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-🌍 Based in Casablanca, Morocco
+<!-- Profile Views & Stars -->
+<br><br>
+<img src="https://komarev.com/ghpvc/?username=hatim3310&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/stars/hatim3310?style=for-the-badge&color=fbbf24&label=GITHUB+STARS" />
 
-🎯 Goals: Master Cloud Architecture & DevOps by 2025
+</div>
 
-🔥 What I Do Best
+<!-- About Section with Modern Layout -->
+<br>
 
-💻 Full Stack Development: I build interactive websites and web apps using React, Node.js, PHP, and more.
+<img align="right" width="380" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" />
 
-🤖 AI & Machine Learning: Working on advanced models using TensorFlow, Scikit-learn, and Pandas.
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30px" /> &nbsp;About Me
 
-🚀 Cloud Solutions: Excited to learn Cloud Architecture and DevOps to build scalable and efficient systems.
+```javascript
+const hatim = {
+    location: "🇲🇦 Casablanca, Morocco",
+    company: "Vision Vibe - Digital Agency",
+    education: "Eurelec - Gestion Informatique",
+    passions: ["AI/ML", "Web3", "Cloud Architecture"],
+    currentFocus: "Building scalable SaaS solutions",
+    funFact: "I debug with console.log and I'm proud! 😄"
+};
+```
 
-🛠 Tech Stack
+<br clear="right"/>
+<br>
 
-Languages: Python, JavaScript, PHP, SQL, HTML, CSS
+<!-- Experience Timeline -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="30px" /> &nbsp;Journey & Milestones
 
-Frameworks & Libraries: React, Node.js, Express, Bootstrap, Tailwind CSS
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/2023-6366F1?style=flat-square" /><br>
+      <b>🚀 Founded Vision Vibe</b><br>
+      <sub>Digital Creation Agency</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/2024-10B981?style=flat-square" /><br>
+      <b>🎓 ALX Certification</b><br>
+      <sub>AI Career Essentials</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/2025-F59E0B?style=flat-square" /><br>
+      <b>🏆 IBM Certified</b><br>
+      <sub>Python for AI & Data Science</sub>
+    </td>
+  </tr>
+</table>
 
-AI Tools: TensorFlow, Pandas, Scikit-learn
+<br>
 
-Databases: MySQL, PostgreSQL, MongoDB
+<!-- Tech Stack with Grid Layout -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30px" /> &nbsp;Tech Arsenal
 
-Dev Tools: Git, Docker, VS Code, Postman, Figma
+<details open>
+<summary><b>🎯 Core Technologies</b></summary>
+<br>
 
-🏆 Achievements
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" />
+      <br><b>Python</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48" />
+      <br><b>JavaScript</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" />
+      <br><b>React</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="48" height="48" />
+      <br><b>MySQL</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="48" height="48" />
+      <br><b>Docker</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="48" height="48" />
+      <br><b>Git</b>
+    </td>
+  </tr>
+</table>
 
-15+ Projects completed
+</details>
 
-10+ Satisfied Clients worldwide
+<details>
+<summary><b>🚀 Full Stack</b></summary>
+<br>
 
-3+ Years of professional experience
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 
-IBM & ALX Certified
+</details>
 
-📊 GitHub Stats & Activity
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hatim3310&show_icons=true&count_private=true&hide_border=true&title_color=00D4AA&icon_color=00D4AA&text_color=c9d1d9&bg_color=0d1117" alt="Hatim's GitHub Stats" height="165"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hatim3310&layout=compact&hide_border=true&title_color=00D4AA&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" height="165"> </div>
-🎯 Featured Projects
+<details>
+<summary><b>🤖 AI & Data Science</b></summary>
+<br>
 
-Check out some of my best work:
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 
-Portfolio Website - A showcase of my web development projects.
+</details>
 
-AI-Based Web Scraper - A scraper that uses AI to fetch and analyze data.
+<br>
 
-📝 Latest Blog Posts
+<!-- GitHub Stats with Custom Theme -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30px" /> &nbsp;GitHub Analytics
 
-I share my knowledge on AI, Web Development, and more. Feel free to check out my latest blog posts:
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=hatim3310&show_icons=true&count_private=true&hide_border=true&title_color=6366F1&icon_color=6366F1&text_color=64748b&bg_color=ffffff00&include_all_commits=true" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hatim3310&layout=compact&hide_border=true&title_color=6366F1&text_color=64748b&bg_color=ffffff00&langs_count=8" />
+</div>
 
-React 18: The Ultimate Guide
+<div align="center">
+  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=hatim3310&theme=react&hide_border=true&background=ffffff00&stroke=6366F1&ring=6366F1&fire=ef4444&currStreakNum=1e293b&sideNums=1e293b&currStreakLabel=6366F1&sideLabels=64748b&dates=64748b" />
+</div>
 
-The Ethics of AI
+<br>
 
-Docker & Kubernetes: Full Stack Deployment
+<!-- Featured Projects with Cards -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="30px" /> &nbsp;Featured Projects
 
-💼 Work Experience
-<details> <summary>🚀 Founder & Full Stack Developer - Vision Vibe</summary> Founded and managing a digital agency focused on providing custom web development services. - Built **15+ web apps** for various clients. - Achieved a **95% client satisfaction rate**. - Key Technologies: **React**, **Node.js**, **Python**, **MySQL**, **Docker** </details> <details> <summary>📊 Data Science Intern - Tech Company</summary> Worked with large datasets and implemented machine learning models for **predictive analytics**. - Built **interactive dashboards** using **Plotly** and **Dash**. - Key Technologies: **Python**, **Pandas**, **Scikit-learn**, **TensorFlow** </details>
-📈 Contribution Graph
+<div align="center">
+  <a href="https://laamartihatim.vercel.app/">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=hatim3310&repo=portfolio&theme=react&bg_color=ffffff00&title_color=6366F1&icon_color=ef4444&text_color=64748b&hide_border=true" />
+  </a>
+  <a href="https://github.com/hatim3310">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=hatim3310&repo=portfolio&theme=react&bg_color=ffffff00&title_color=6366F1&icon_color=ef4444&text_color=64748b&hide_border=true" />
+  </a>
+</div>
 
-Here's a visual of my contributions across GitHub:
+<br>
 
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=hatim3310&bg_color=0d1117&color=00D4AA&line=00D4AA&point=ffffff&area_color=00D4AA&area=true&hide_border=true" alt="Contribution Graph" /> </div>
-💬 Quote of the Day
+<!-- Activity Graph -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="30px" /> &nbsp;Contribution Activity
 
-"Code is like humor. When you have to explain it, it's bad." – Cory House
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hatim3310&bg_color=ffffff00&color=6366F1&line=6366F1&point=ef4444&area_color=6366F1&area=true&hide_border=true&custom_title=Contribution%20Graph" />
 
-📫 Let's Connect!
+<br>
 
-Feel free to reach out or connect with me on my professional platforms:
+<!-- Latest Blog Posts -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" width="30px" /> &nbsp;Latest Blog Posts
 
-💼 Portfolio
+<!-- BLOG-POST-LIST:START -->
+- 📱 [Building Scalable React Native Apps in 2025](https://laamartihatim.vercel.app/blog.html)
+- 🤖 [AI Integration: From Concept to Production](https://laamartihatim.vercel.app/blog.html)
+- 🎨 [Modern UI/UX Trends That Convert](https://laamartihatim.vercel.app/blog.html)
+- ⚡ [Performance Optimization: Real-World Case Studies](https://laamartihatim.vercel.app/blog.html)
+- 🔐 [Security Best Practices for Modern Web Apps](https://laamartihatim.vercel.app/blog.html)
+<!-- BLOG-POST-LIST:END -->
 
-🔗 LinkedIn
+➡️ [**Read more on my blog**](https://laamartihatim.vercel.app/blog.html)
 
-📧 Email
+<br>
 
-📷 Instagram
+<!-- Services Section -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="30px" /> &nbsp;Services I Offer
 
-👁‍🗨 Profile Views
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=hatim3310&label=Profile%20views&color=00D4AA&style=flat" alt="Profile views" /> </div>
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20Showing%20Americas.png" width="60px"><br>
+      <b>Web Development</b><br>
+      <sub>Custom websites & web apps<br>React, Next.js, Node.js</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="60px"><br>
+      <b>AI Solutions</b><br>
+      <sub>ML models & automation<br>Python, TensorFlow</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" width="60px"><br>
+      <b>Mobile Apps</b><br>
+      <sub>Cross-platform development<br>React Native</sub>
+    </td>
+  </tr>
+</table>
 
-Thank you for visiting my profile! 🌟 Explore my projects, connect with me, and let's build something awesome together! 🚀
+<br>
+
+<!-- Fun Section -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" width="30px" /> &nbsp;Random Dev Facts
+
+<div align="center">
+
+```mermaid
+graph TD
+    A[Coffee ☕] -->|Powers| B[Code 💻]
+    B --> C{Bug Found? 🐛}
+    C -->|Yes| D[More Coffee ☕]
+    C -->|No| E[Deploy 🚀]
+    D --> B
+    E --> F[Celebrate 🎉]
+```
+
+</div>
+
+<br>
+
+<!-- Contact CTA -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" width="30px" /> &nbsp;Let's Connect!
+
+<div align="center">
+
+### 💼 Open for Freelance Projects • 🤝 Available for Collaboration
+
+<br>
+
+<a href="https://laamartihatim.vercel.app/">
+  <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<a href="mailto:hatimlamarti3@gmail.com">
+  <img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/lamartihatim">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br><br>
+
+### 📌 Featured Quote
+
+> *"First, solve the problem. Then, write the code."* - John Johnson
+
+<br>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" width="30px" /> &nbsp;**Thanks for visiting! Happy coding!**
+
+</div>
+
+<!-- Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
