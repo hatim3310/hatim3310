@@ -5,8 +5,11 @@
 
 <!-- Animated Tagline -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Building+Digital+Dreams+into+Reality+✨;Transforming+Data+into+Intelligence+🧠;Creating+Tomorrow's+Solutions+Today+🚀" alt="Typing SVG" />
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&color=00D4AA&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=70&lines=Full+Stack+Developer;Data+Scientist;AI+Enthusiast;Problem+Solver" alt="Typing SVG" />
 </a>
+
+ 
+</div>
 
 <!-- Social Links with Hover Effects -->
 <br><br>
