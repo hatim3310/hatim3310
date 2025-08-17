@@ -1,11 +1,8 @@
 <div align="center">
 
 <!-- Animated Header -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&color=00D4AA&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=70&lines=Full+Stack+Developer;Data+Scientist;AI+Enthusiast;Problem+Solver" alt="Typing SVG" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hatim%20Lamarti&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20•%20Data%20Scientist%20•%20Digital%20Creator&descAlignY=52&descSize=18&descFontColor=fff" />
 
-
-</div>
 <!-- Animated Tagline -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Building+Digital+Dreams+into+Reality+✨;Transforming+Data+into+Intelligence+🧠;Creating+Tomorrow's+Solutions+Today+🚀" alt="Typing SVG" />
