@@ -1,7 +1,10 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hatim%20Lamarti&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20•%20Data%20Scientist%20•%20Digital%20Creator&descAlignY=52&descSize=18&descFontColor=fff" />
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&color=00D4AA&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=70&lines=Full+Stack+Developer;Data+Scientist;AI+Enthusiast;Problem+Solver" alt="Typing SVG" />
+</div>
+type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hatim%20Lamarti&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20•%20Data%20Scientist%20•%20Digital%20Creator&descAlignY=52&descSize=18&descFontColor=fff" />
 
 <!-- Animated Tagline -->
 <a href="https://git.io/typing-svg">
