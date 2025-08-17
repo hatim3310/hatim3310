@@ -43,7 +43,6 @@
 ```javascript
 const hatim = {
     location: "🇲🇦 Casablanca, Morocco",
-    company: "Vision Vibe - Digital Agency",
     education: "Eurelec - Gestion Informatique",
     passions: ["AI/ML", "Web3", "Cloud Architecture"],
     currentFocus: "Building scalable SaaS solutions",
@@ -59,11 +58,7 @@ const hatim = {
 
 <table>
   <tr>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/2023-6366F1?style=flat-square" /><br>
-      <b>🚀 Founded Vision Vibe</b><br>
-      <sub>Digital Creation Agency</sub>
-    </td>
+    
     <td align="center" width="33%">
       <img src="https://img.shields.io/badge/2024-10B981?style=flat-square" /><br>
       <b>🎓 ALX Certification</b><br>
