@@ -156,20 +156,6 @@ const hatim = {
 
 <br>
 
-<!-- Featured Projects with Cards -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="30px" /> &nbsp;Featured Projects
-
-<div align="center">
-  <a href="https://laamartihatim.vercel.app/">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=hatim3310&repo=portfolio&theme=react&bg_color=ffffff00&title_color=6366F1&icon_color=ef4444&text_color=64748b&hide_border=true" />
-  </a>
-  <a href="https://github.com/hatim3310">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=hatim3310&repo=portfolio&theme=react&bg_color=ffffff00&title_color=6366F1&icon_color=ef4444&text_color=64748b&hide_border=true" />
-  </a>
-</div>
-
-<br>
-
 <!-- Activity Graph -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="30px" /> &nbsp;Contribution Activity
 
