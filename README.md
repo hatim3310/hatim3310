@@ -36,7 +36,7 @@
 <!-- About Section with Modern Layout -->
 <br>
 
-<img align="right" width="380" src="https://github.com/hatim3310.png" alt="Lamarti Hatim" style="border-radius: 50%;" />
+<img width="4000" height="4000" alt="Image" src="https://github.com/user-attachments/assets/14e55b56-22ec-46dc-96d1-79909e079f2e" />
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30px" /> &nbsp;About Me
 
 ```javascript
