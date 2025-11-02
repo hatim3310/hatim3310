@@ -1,67 +1,129 @@
-<!-- Bannière de présentation -->
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGZzZ3J3NWNqYmI4eDY3dmZ6dnhqZHVqbzRtcWZodGdqNGt2eGlmdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7btNa0RUYa5E7iiQ/giphy.gif" width="600" />
-</p>
+<!-- BANNIÈRE HUD F1 -->
+<div align="center">
+  <img src="https://media.giphy.com/media/l41lI4bY4iG3g4a1G/giphy.gif" width="100%" alt="Bannière F1 HUD"/>
+</div>
 
-<!-- Titre animé avec effet de frappe -->
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Bonjour,+je+suis+[Votre+Nom];Développeur+Full-Stack;Passionné+d'Open+Source;Créateur+de+contenu" alt="Typing SVG" />
+<!-- LOGO PERSONNEL ET TITRE -->
+<div align="center" style="margin-top: -80px;">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hatim3310&repo=YOUR_REPO&title_color=E10600&icon_color=00D2BE&bg_color=1A1B27&hide_border=true&show_owner=true" style="border-radius: 50%; width: 150px; height: 150px; border: 4px solid #E10600;"/>
+</div>
+
+<div align="center">
+  <h1 style="font-family: 'Arial Black', sans-serif; font-size: 3em; color: #FFFFFF; text-shadow: 2px 2px 4px #000000;">
+    HATIM LAMARTI
+  </h1>
+  <p style="font-size: 1.5em; color: #00D2BE;">
+    <strong>Architecte de Solutions Digitales & Pilote de Données</strong>
+  </p>
+</div>
+
+<!-- BADGES SOCIAUX ET STATS -->
+<div align="center" style="margin-top: 20px; margin-bottom: 20px;">
+  <a href="https://laamartihatim.vercel.app/"><img src="https://img.shields.io/badge/-%F0%9F%8C%90_Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/lamartihatim"><img src="https://img.shields.io/badge/-%E2%9A%91_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:hatimlamarti3@gmail.com"><img src="https://img.shields.io/badge/-%E2%9C%89%EF%B8%8F_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</div>
+
+---
+
+<!-- SECTION "À PROPOS" EN DEUX COLONNES -->
+<table>
+  <tr>
+    <td width="65%" valign="top">
+      <h3>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Racing%20Car.png" alt="Racing car" width="35"/>
+        &nbsp;Stratégie de Course : Ma Philosophie
+      </h3>
+      <p>
+        En tant que développeur, je vois chaque projet comme un Grand Prix. La <b>stratégie</b> est ma phase de qualification, le <b>code</b> est ma course, et la <b>performance</b> est mon unique objectif. Ma mission : traduire la stratégie en vitesse d'exécution pour livrer des applications qui non seulement fonctionnent, mais dominent leur catégorie.
+      </p>
+      <ul>
+        <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="20"/> <b>Ingénierie de Précision :</b> Écriture de code propre, testable et optimisé pour des performances de pointe.</li>
+        <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="20"/> <b>Pilotage par la Donnée :</b> Utilisation de la Data Science et de l'IA pour prendre des décisions éclairées et anticiper les virages.</li>
+        <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/High%20Voltage.png" alt="Voltage" width="20"/> <b>Innovation Continue :</b> Toujours en veille, prêt à intégrer les technologies de nouvelle génération pour gagner en compétitivité.</li>
+      </ul>
+    </td>
+    <td width="35%" align="center" valign="top">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Q2NWJqOWZzY2V4ajZqcWw5dGt0ZXQ1N2lndjVjeDN2N2I2emttNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" alt="Animation de télémétrie de circuit" width="100%"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" alt="Toolbox" width="35"/> &nbsp;Le Paddock Technologique
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" style="padding: 10px;">
+        <h4 style="color: #FFFFFF;">🏎️ Motorisation (Langages)</h4>
+        <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp" /><br>
+        <img src="https://skillicons.dev/icons?i=html,css,scss" />
+      </td>
+      <td align="center" style="padding: 10px;">
+        <h4 style="color: #FFFFFF;">💨 Aérodynamisme (Frontend)</h4>
+        <img src="https://skillicons.dev/icons?i=react,nextjs,redux" /><br>
+        <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,figma" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="padding: 10px;">
+        <h4 style="color: #FFFFFF;">🔧 Châssis (Backend & DBs)</h4>
+        <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" /><br>
+        <img src="https://skillicons.dev/icons?i=mysql,postgresql,docker" />
+      </td>
+      <td align="center" style="padding: 10px;">
+        <h4 style="color: #FFFFFF;">🧠 Télémétrie (Data & IA)</h4>
+        <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,keras" /><br>
+        <img src="https://skillicons.dev/icons?i=pandas,numpy,scikitlearn" />
+      </td>
+    </tr>
+  </table>
+</div>
+<br>
+
+---
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="35"/> &nbsp;Salle des Trophées : Projets d'Exception
+
+<div align="center">
+  <!-- REMPLACEZ 'hatim3310' et 'REPO_NAME' PAR VOS PROJETS ÉPINGLÉS -->
+  <a href="https://github.com/hatim3310/REPO_NAME_1">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=hatim3310&repo=REPO_NAME_1&theme=tokyonight&title_color=E10600&icon_color=00D2BE&show_owner=true" />
   </a>
-</h1>
+  <a href="https://github.com/hatim3310/REPO_NAME_2">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=hatim3310&repo=REPO_NAME_2&theme=tokyonight&title_color=E10600&icon_color=00D2BE&show_owner=true" />
+  </a>
+</div>
+<br>
 
-<!-- Ligne de séparation -->
-<hr/>
+---
 
-<!-- Section "À propos de moi" -->
-<h2 align="left">👨‍💻 À propos de moi</h2>
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="35"/> &nbsp;Analyse de Télémétrie
 
-- 🔭 Je travaille actuellement sur **[Nom de votre projet/entreprise]**.
-- 🌱 J'apprends en ce moment **[Technologie que vous apprenez]**.
-- 👯‍♀️ Je cherche à collaborer sur des projets **[Type de projets]**.
-- 🤔 Je suis à la recherche d'aide pour **[Où vous avez besoin d'aide]**.
-- 💬 Demandez-moi tout sur **[Vos domaines d'expertise]**.
-- 📫 Comment me joindre : **[Votre email ou autre moyen de contact]**.
-- 😄 Pronoms : **[Il/Lui, Elle/Elle, etc.]**.
-- ⚡ Fait amusant : **[Une anecdote amusante sur vous]**.
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hatim3310&show_icons=true&theme=tokyonight&hide_border=true&title_color=E10600&icon_color=00D2BE&include_all_commits=true" alt="Stats GitHub"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hatim3310&layout=compact&theme=tokyonight&hide_border=true&title_color=E10600" alt="Top Langages"/>
+</div>
 
-<!-- Ligne de séparation -->
-<hr/>
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/HighSpeed%20Train.png" alt="Speed" width="35"/> &nbsp;Trajectoire de Course : Graphe d'Activité
 
-<!-- Section Compétences avec des icônes -->
-<h2 align="left">🛠️ Langages et Outils</h2>
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" /></a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-</p>
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=hatim3310&bg_color=1A1B27&color=FFFFFF&line=E10600&point=FFD700&area=true&hide_border=true&custom_title=Trajectoire%20de%20Contribution%20(Ferrari%20Theme)" alt="Graphe d'activité"/>
+</div>
+<br>
 
-<!-- Ligne de séparation -->
-<hr/>
+---
 
-<!-- Statistiques GitHub animées -->
-<h2 align="left">📊 Mes Statistiques GitHub</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VOTRE_NOM_UTILISATEUR&show_icons=true&theme=radical&rank_icon=github" alt="Statistiques GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE_NOM_UTILISATEUR&layout=compact&theme=radical" alt="Langages les plus utilisés" />
-</p>
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Radio.png" alt="Radio" width="35"/> &nbsp;Radio Check : Rejoignez l'Écurie
 
-<!-- Jeu du serpent sur les contributions -->
-<p align="center">
-  <img src="https://github.com/VOTRE_NOM_UTILISATEUR/VOTRE_NOM_UTILISATEUR/raw/output/github-contribution-grid-snake.svg" alt="Snake Game" />
-</p>
+<div align="center">
+  <p>Prêt à prendre la piste pour un nouveau projet ? Contactez-moi. Je suis ouvert aux collaborations qui repoussent les limites.</p>
+  <a href="https://www.linkedin.com/in/lamartihatim"><img src="https://img.shields.io/badge/-%E2%9A%91_Ouvrir_le_canal_Pro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
 
-<!-- Ligne de séparation -->
-<hr/>
-
-<!-- Réseaux sociaux -->
-<h2 align="left">🔗 Connectons-nous !</h2>
-<p align="left">
-  <a href="https://www.linkedin.com/in/VOTRE_PROFIL_LINKEDIN/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/VOTRE_PROFIL_TWITTER" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="https://VOTRE_BLOG.com/" target="_blank"><img src="https://img.shields.io/badge/Mon_Blog-232323?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog"/></a>
-</p>
+<!-- FOOTER -->
+<div align="center" style="margin-top: 30px;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,0,0&height=120&section=footer" width="100%" />
+</div>
