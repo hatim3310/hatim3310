@@ -1,142 +1,119 @@
-<!-- HEADER ANIMÉ -->
+<!-- HEADER BANNER (COMME DANS L'EXEMPLE) -->
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTY2ZzhkY2M5MWU5MTAxYjAzNjI3NzMyYjU3MTEzMjRiN2I3Y2JmZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LReqn5L3oHT2Y2iNVo/giphy.gif" width="100%" alt="Bannière F1 animée"/>
+  <img src="https://github.com/user-attachments/assets/b361a7a0-3cd3-4e4b-9e4a-b5e024248552" alt="Bannière Hatim Lamarti F1" width="100%"/>
 </div>
 
-<!-- TITRE ET TAGLINE ANIMÉE -->
+<!-- GREETING (COMME DANS L'EXEMPLE) -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&color=E10600&center=true&vCenter=true&width=800&lines=Hatim+Lamarti;Full+Stack+Developer+%7C+Data+Scientist;AI+%26+Machine+Learning+Architect;F1+Enthusiast+%7C+Performance+Optimizer+%F0%9F%8F%81" alt="Typing SVG" />
-  </a>
+    <p style="font-size: 2.5em; font-weight: bold; margin-top: 20px; margin-bottom: 0;">
+        Salut <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving hand" width="40"/>, Je suis Hatim Lamarti
+    </p>
 </div>
 
-<!-- BADGES SOCIAUX ET STATS -->
-<div align="center" style="margin-top: 20px; margin-bottom: 20px;">
-  <a href="https://laamartihatim.vercel.app/"><img src="https://img.shields.io/badge/-%F0%9F%8C%90_Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/lamartihatim"><img src="https://img.shields.io/badge/-%E2%9A%91_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:hatimlamarti3@gmail.com"><img src="https://img.shields.io/badge/-%E2%9C%89%EF%B8%8F_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=hatim3310&style=for-the-badge&color=00D2BE&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/stars/hatim3310?style=for-the-badge&color=fbbf24&label=GITHUB+STARS" />
+<!-- INTRODUCTION PARAGRAPH (COMME DANS L'EXEMPLE) -->
+<div align="center">
+    <p style="font-size: 1.2em; max-width: 800px; margin: 10px auto 30px auto; color: #888;">
+        Je suis un développeur Full Stack et Data Scientist passionné par la création de solutions performantes. J'explore activement l'IA/ML pour repousser les limites de la technologie, en m'inspirant de la précision et de la vitesse de la Formule 1 🏎️.
+    </p>
 </div>
 
-<!-- DIVISEUR ANIMÉ -->
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/images/line.gif" width="100%">
+---
 
-<!-- SECTION "À PROPOS" EN DEUX COLONNES -->
+<!-- ABOUT ME SECTION WITH IMAGE ON THE RIGHT (COMME DANS L'EXEMPLE) -->
 <table>
   <tr>
-    <td width="65%">
+    <td valign="top">
       <h3>
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Racing%20Car.png" alt="Racing car" width="35"/>
-        &nbsp;Pole Position : À Propos de Moi
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Man%20Technologist.png" alt="Technologist" width="30"/> &nbsp;À Propos de Moi
+      </h3>
+      <ul>
+        <li>🔭 Je construis actuellement des solutions <b>SaaS scalables</b>.</li>
+        <li>💻 J'ai une solide expérience en <b>Full Stack</b> avec un focus sur les écosystèmes JavaScript et Python.</li>
+        <li>🧠 Mon intérêt se porte sur l'<b>Intelligence Artificielle</b>, le <b>Machine Learning</b>, et l'<b>architecture Cloud</b>.</li>
+        <li>🏁 Je ne vise rien de moins que la <b>perfection</b> et la <b>performance</b> dans chaque projet.</li>
+      </ul>
+      <br>
+      <h3>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Call%20Me%20Hand.png" alt="Contact" width="30"/> &nbsp;Contactez-moi
       </h3>
       <p>
-        Développeur Full Stack et Data Scientist, passionné par la conception d'architectures logicielles robustes et l'optimisation des performances. Tel un ingénieur en F1, je peaufine chaque détail pour garantir des solutions non seulement fonctionnelles, mais aussi rapides, scalables et efficaces.
+        <a href="mailto:hatimlamarti3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+        <a href="https://www.linkedin.com/in/lamartihatim"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
       </p>
-      <ul>
-        <li>🚀 <strong>Mission Actuelle :</strong> Construire la prochaine génération de solutions SaaS basées sur l'IA.</li>
-        <li>🏆 <strong>Plus Grande Fierté :</strong> Transformer des données brutes en insights stratégiques qui pilotent la prise de décision.</li>
-        <li>🔧 <strong>Philosophie :</strong> "Le code, comme une voiture de course, doit être élégant, puissant et parfaitement équilibré."</li>
-      </ul>
     </td>
-    <td width="35%" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3AzaTR3NzZ6YW15NmpqZG92Mnlob2ZrcXFzZzgxY2hpdHhpa20wbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/scZzG5zC3B1v4pxRx4/giphy.gif" alt="Animation F1 HUD" width="100%"/>
+    <td width="380" align="center" valign="top">
+      <img src="https://github.com/user-attachments/assets/14e55b56-22ec-46dc-96d1-79909e079f2e" alt="Illustration codeur" width="380"/>
     </td>
   </tr>
 </table>
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" alt="Toolbox" width="35"/> &nbsp;Garage Technologique : Mon Setup de Course
-
-<!-- COMPÉTENCES DANS DES SECTIONS DÉROULANTES -->
-<details>
-  <summary>
-    <strong>🏎️ Le Moteur (Langages & Core)</strong>
-  </summary>
-  <div align="center" style="padding: 10px;">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  </div>
-</details>
-
-<details>
-  <summary>
-    <strong>💨 Aérodynamisme (Frontend & UI)</strong>
-  </summary>
-  <div align="center" style="padding: 10px;">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  </div>
-</details>
-
-<details>
-  <summary>
-    <strong>🔧 Châssis & Drivetrain (Backend & Bases de Données)</strong>
-  </summary>
-  <div align="center" style="padding: 10px;">
-    <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  </div>
-</details>
-
-<details>
-  <summary>
-    <strong>🧠 Stratégie de Course (AI, Data Science & DevOps)</strong>
-  </summary>
-  <div align="center" style="padding: 10px;">
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-    <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  </div>
-</details>
-<br>
-
-<!-- DIVISEUR ANIMÉ -->
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/images/line.gif" width="100%">
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="35"/> &nbsp;Télémétrie de Course : Performance sur GitHub
-
+<!-- LANGUAGES & TOOLS GRID (COMME DANS L'EXEMPLE) -->
+<h3>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="30"/> &nbsp;Langages & Outils (Ma Grille de Départ)
+</h3>
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hatim3310&show_icons=true&theme=tokyonight&hide_border=true&title_color=E10600&icon_color=00D2BE&include_all_commits=true" alt="Stats GitHub de Hatim"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hatim3310&layout=compact&theme=tokyonight&hide_border=true&title_color=E10600" alt="Top Langages de Hatim"/>
-  <br><br>
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=hatim3310&theme=tokyonight&hide_border=true&stroke=E10600&ring=E10600&fire=00D2BE" alt="Streak GitHub de Hatim"/>
+  <table>
+    <tr>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=python" width="55" height="55" alt="Python" /><br><b>Python</b></td>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=js" width="55" height="55" alt="JavaScript" /><br><b>JavaScript</b></td>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=ts" width="55" height="55" alt="TypeScript" /><br><b>TypeScript</b></td>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=react" width="55" height="55" alt="React" /><br><b>React</b></td>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=nextjs" width="55" height="55" alt="Next.js" /><br><b>Next.js</b></td>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=nodejs" width="55" height="55" alt="Node.js" /><br><b>Node.js</b></td>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=git" width="55" height="55" alt="Git" /><br><b>Git</b></td>
+    </tr>
+    <tr>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=docker" width="55" height="55" alt="Docker" /><br><b>Docker</b></td>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=mysql" width="55" height="55" alt="MySQL" /><br><b>MySQL</b></td>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=postgresql" width="55" height="55" alt="PostgreSQL" /><br><b>PostgreSQL</b></td>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=mongodb" width="55" height="55" alt="MongoDB" /><br><b>MongoDB</b></td>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=tailwind" width="55" height="55" alt="Tailwind CSS" /><br><b>Tailwind</b></td>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=bootstrap" width="55" height="55" alt="Bootstrap" /><br><b>Bootstrap</b></td>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=vscode" width="55" height="55" alt="VSCode" /><br><b>VSCode</b></td>
+    </tr>
+  </table>
 </div>
 <br>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Man%20Mountain%20Biking.png" alt="Biking" width="35"/> &nbsp;Ma Trajectoire de Course : Graphe d'Activité
-
+<!-- TECH STACK BADGES (COMME DANS L'EXEMPLE) -->
+<h3>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="30"/> &nbsp;Tech Stack
+</h3>
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=hatim3310&bg_color=1A1B27&color=E10600&line=00D2BE&point=FFFFFF&area=true&hide_border=true&custom_title=Trajectoire%20de%20Contribution%20(Contribution%20Racing%20Line)" alt="Graphe d'activité de Hatim"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 </div>
 <br>
 
-<!-- DIVISEUR ANIMÉ -->
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/images/line.gif" width="100%">
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone.png" alt="Contact" width="35"/> &nbsp;Prêt pour le Prochain Grand Prix ? Contactez-moi !
-
+<!-- SUPPORT ME SECTION (COMME DANS L'EXEMPLE) -->
+<h3>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands.png" alt="Support" width="30"/> &nbsp;Soutenez-moi
+</h3>
 <div align="center">
-  <p>Je suis toujours prêt à discuter de projets ambitieux, de collaborations ou de la dernière course de F1.<br>Rejoignez mon équipe !</p>
-  <a href="mailto:hatimlamarti3@gmail.com"><img src="https://img.shields.io/badge/-%E2%9C%89%EF%B8%8F_Envoyer_un_message-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/lamartihatim"><img src="https://img.shields.io/badge/-%E2%9A%91_Connectons--nous-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.buymeacoffee.com/YOUR_USERNAME" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 180px !important;" >
+  </a>
+</div>
+<br>
+
+---
+
+<!-- LARGE DECORATIVE IMAGE (COMME DANS L'EXEMPLE) -->
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/6504a44e-5e74-42f5-933e-52f0b719463b" alt="F1 Pixel Art" width="100%"/>
 </div>
 
-<!-- FOOTER -->
-<div align="center" style="margin-top: 30px;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,0,2&height=120&section=footer" width="100%" />
+<!-- REMINDER FOR PINNED REPOSITORIES -->
+<div align="center">
+  <h3 style="margin-top: 40px;">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pushpin.png" alt="Pin" width="30"/> &nbsp;Mes Projets Épinglés
+  </h3>
+  <p>N'oubliez pas de consulter mes dépôts épinglés ci-dessous pour voir mes derniers travaux !</p>
 </div>
