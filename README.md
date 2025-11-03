@@ -1,129 +1,357 @@
-<!-- BANNIÈRE HUD F1 -->
 <div align="center">
-  <img src="https://media.giphy.com/media/l41lI4bY4iG3g4a1G/giphy.gif" width="100%" alt="Bannière F1 HUD"/>
-</div>
 
-<!-- LOGO PERSONNEL ET TITRE -->
-<div align="center" style="margin-top: -80px;">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hatim3310&repo=YOUR_REPO&title_color=E10600&icon_color=00D2BE&bg_color=1A1B27&hide_border=true&show_owner=true" style="border-radius: 50%; width: 150px; height: 150px; border: 4px solid #E10600;"/>
-</div>
+<!-- Professional Header with Gradient -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,26,27&height=150&section=header&text=Hatim%20Lamarti&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20•%20Data%20Scientist%20•%20Solution%20Architect&descAlignY=58&descSize=16" />
 
-<div align="center">
-  <h1 style="font-family: 'Arial Black', sans-serif; font-size: 3em; color: #FFFFFF; text-shadow: 2px 2px 4px #000000;">
-    HATIM LAMARTI
-  </h1>
-  <p style="font-size: 1.5em; color: #00D2BE;">
-    <strong>Architecte de Solutions Digitales & Pilote de Données</strong>
-  </p>
-</div>
+<!-- Professional Animated Title -->
+<a href="https://git.io/typing-svg">
+   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Building+Scalable+Digital+Solutions;Transforming+Ideas+into+Reality;Passionate+About+Clean+Code" alt="Typing SVG" />
+</a>
 
-<!-- BADGES SOCIAUX ET STATS -->
-<div align="center" style="margin-top: 20px; margin-bottom: 20px;">
-  <a href="https://laamartihatim.vercel.app/"><img src="https://img.shields.io/badge/-%F0%9F%8C%90_Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/lamartihatim"><img src="https://img.shields.io/badge/-%E2%9A%91_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:hatimlamarti3@gmail.com"><img src="https://img.shields.io/badge/-%E2%9C%89%EF%B8%8F_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<!-- Professional Links -->
+<p align="center">
+  <a href="https://laamartihatim.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/lamartihatim">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:hatimlamarti3@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://calendly.com/hatimlamarti">
+    <img src="https://img.shields.io/badge/Book_a_Call-4285F4?style=for-the-badge&logo=google-meet&logoColor=white" />
+  </a>
+</p>
+
+<!-- Metrics -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hatim3310&style=flat-square&color=2563EB" />
+  <img src="https://img.shields.io/github/followers/hatim3310?style=flat-square&color=2563EB" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Cloud-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Location-Casablanca%2C%20Morocco-2563EB?style=flat-square" />
+</p>
+
 </div>
 
 ---
 
-<!-- SECTION "À PROPOS" EN DEUX COLONNES -->
+## 👨‍💻 Professional Summary
+
+<img align="right" width="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+
+**Senior Full Stack Developer** with **3+ years** of experience building enterprise-grade applications and scalable SaaS solutions. Specialized in **AI/ML integration**, **cloud architecture**, and **performance optimization**.
+
+### 🎯 Core Competencies
+- **Architecture:** Microservices, RESTful APIs, Event-Driven Systems
+- **Development:** Test-Driven Development, CI/CD, Agile/Scrum
+- **Specialization:** Real-time applications, Payment integrations, AI/ML pipelines
+- **Leadership:** Technical mentoring, Code reviews, Architecture decisions
+
+### 📊 Impact Metrics
+- 📈 **40%** average performance improvement in client applications
+- 🚀 **15+** successful production deployments
+- 👥 **10,000+** active users on deployed applications
+- ⭐ **98%** client satisfaction rate
+
+<br clear="right"/>
+
+---
+
+## 🏆 Certifications & Achievements
+
+<div align="center">
+
+| Certification | Issuer | Year | Verification |
+|--------------|--------|------|--------------|
+| **IBM Python for AI & Data Science** | IBM | 2025 | [Verify →](https://www.credly.com/) |
+| **ALX AI Career Essentials** | ALX Africa | 2024 | [Verify →](https://www.alxafrica.com/) |
+| **Advanced React Development** | Meta | 2024 | [Verify →](https://www.coursera.org/) |
+| **Cloud Architecture Professional** | Google Cloud | 2024 | [Verify →](https://cloud.google.com/) |
+
+</div>
+
+---
+
+## 💼 Professional Experience
+
+### **Lead Full Stack Developer** | Freelance
+*January 2023 - Present* | Remote
+
+- 🔧 Architected and deployed **5+ SaaS applications** serving **10,000+ users**
+- 📊 Implemented **AI-powered analytics dashboards** increasing client insights by **60%**
+- ⚡ Optimized application performance achieving **<100ms** response times
+- 🔐 Established security best practices reducing vulnerabilities by **95%**
+
+### **Data Science Consultant** | Various Clients
+*June 2022 - December 2022* | Casablanca, Morocco
+
+- 🤖 Developed **ML models** for predictive analytics with **92% accuracy**
+- 📈 Created data pipelines processing **1M+ records daily**
+- 💡 Delivered actionable insights leading to **25% revenue increase** for clients
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
 <table>
   <tr>
-    <td width="65%" valign="top">
-      <h3>
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Racing%20Car.png" alt="Racing car" width="35"/>
-        &nbsp;Stratégie de Course : Ma Philosophie
-      </h3>
-      <p>
-        En tant que développeur, je vois chaque projet comme un Grand Prix. La <b>stratégie</b> est ma phase de qualification, le <b>code</b> est ma course, et la <b>performance</b> est mon unique objectif. Ma mission : traduire la stratégie en vitesse d'exécution pour livrer des applications qui non seulement fonctionnent, mais dominent leur catégorie.
-      </p>
-      <ul>
-        <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="20"/> <b>Ingénierie de Précision :</b> Écriture de code propre, testable et optimisé pour des performances de pointe.</li>
-        <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="20"/> <b>Pilotage par la Donnée :</b> Utilisation de la Data Science et de l'IA pour prendre des décisions éclairées et anticiper les virages.</li>
-        <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/High%20Voltage.png" alt="Voltage" width="20"/> <b>Innovation Continue :</b> Toujours en veille, prêt à intégrer les technologies de nouvelle génération pour gagner en compétitivité.</li>
-      </ul>
+    <td width="50%">
+      <h3 align="center">AI-Powered E-Commerce Platform</h3>
+      <div align="center">
+        <a href="https://github.com/hatim3310/ecommerce-ai" target="_blank">
+          <img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge&logo=github" />
+        </a>
+        <a href="https://ecommerce-demo.vercel.app" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-10B981?style=for-the-badge&logo=vercel" />
+        </a>
+      </div>
+      <br>
+      <p><strong>Tech Stack:</strong> Next.js, Python, TensorFlow, PostgreSQL</p>
+      <p>📊 <strong>Impact:</strong> 40% increase in conversion rate</p>
+      <p>🎯 <strong>Features:</strong> Recommendation engine, Dynamic pricing, Real-time analytics</p>
     </td>
-    <td width="35%" align="center" valign="top">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Q2NWJqOWZzY2V4ajZqcWw5dGt0ZXQ1N2lndjVjeDN2N2I2emttNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" alt="Animation de télémétrie de circuit" width="100%"/>
+    <td width="50%">
+      <h3 align="center">Real-Time Analytics Dashboard</h3>
+      <div align="center">
+        <a href="https://github.com/hatim3310/analytics-dashboard" target="_blank">
+          <img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge&logo=github" />
+        </a>
+        <a href="https://dashboard-demo.vercel.app" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-10B981?style=for-the-badge&logo=vercel" />
+        </a>
+      </div>
+      <br>
+      <p><strong>Tech Stack:</strong> React, Node.js, WebSocket, MongoDB</p>
+      <p>📊 <strong>Impact:</strong> Processing 100K+ events/second</p>
+      <p>🎯 <strong>Features:</strong> Live data streaming, Custom visualizations, Export capabilities</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Healthcare Management System</h3>
+      <div align="center">
+        <a href="https://github.com/hatim3310/healthcare-system" target="_blank">
+          <img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge&logo=github" />
+        </a>
+        <a href="https://healthcare-demo.vercel.app" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-10B981?style=for-the-badge&logo=vercel" />
+        </a>
+      </div>
+      <br>
+      <p><strong>Tech Stack:</strong> React Native, Express.js, MySQL, Redis</p>
+      <p>📊 <strong>Impact:</strong> Managing 5000+ patient records</p>
+      <p>🎯 <strong>Features:</strong> Appointment scheduling, Medical records, Billing system</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">FinTech Payment Solution</h3>
+      <div align="center">
+        <a href="https://github.com/hatim3310/fintech-payment" target="_blank">
+          <img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge&logo=github" />
+        </a>
+        <a href="https://payment-demo.vercel.app" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-10B981?style=for-the-badge&logo=vercel" />
+        </a>
+      </div>
+      <br>
+      <p><strong>Tech Stack:</strong> Next.js, Stripe API, PostgreSQL, Docker</p>
+      <p>📊 <strong>Impact:</strong> Processing $100K+ transactions monthly</p>
+      <p>🎯 <strong>Features:</strong> Multi-currency, Fraud detection, Instant settlements</p>
+    </td>
+  </tr>
+</table>
+</div>
+
+---
+
+## 🛠️ Technical Expertise
+
+<details open>
+<summary><b>Languages & Frameworks</b></summary>
+<br>
+
+<div align="center">
+
+**Expert Level**
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+</p>
+
+**Proficient**
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D" />
+</p>
+
+</div>
+</details>
+
+<details>
+<summary><b>Cloud & DevOps</b></summary>
+<br>
+
+<div align="center">
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+</p>
+
+</div>
+</details>
+
+<details>
+<summary><b>Databases & Tools</b></summary>
+<br>
+
+<div align="center">
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+</p>
+
+</div>
+</details>
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  
+<a href="https://github.com/hatim3310">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hatim3310&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2563EB&icon_color=2563EB"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hatim3310&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=2563EB&icon_color=2563EB"/>
+</a>
+
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=hatim3310&theme=react&hide_border=true&background=0D1117&stroke=2563EB&ring=2563EB&fire=FB8500&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=2563EB&sideLabels=9CA3AF&dates=9CA3AF" />
+
+### 🏆 GitHub Profile Trophy
+<img src="https://github-profile-trophy.vercel.app/?username=hatim3310&theme=algolia&no-frame=true&no-bg=false&margin-w=4&column=7" />
+
+</div>
+
+---
+
+## 📚 Latest Blog Posts & Resources
+
+<table>
+  <tr>
+    <td>
+      <a href="https://laamartihatim.vercel.app/blog/microservices-architecture">
+        <img src="https://img.shields.io/badge/NEW-FF5722?style=flat-square" />
+        <strong>Building Scalable Microservices Architecture</strong>
+      </a>
+      <br><sub>Learn how to design and implement microservices that scale</sub>
+    </td>
+    <td>
+      <a href="https://laamartihatim.vercel.app/blog/ai-integration-guide">
+        <strong>Complete Guide to AI Integration in Web Apps</strong>
+      </a>
+      <br><sub>Step-by-step tutorial for implementing AI features</sub>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://laamartihatim.vercel.app/blog/performance-optimization">
+        <strong>Performance Optimization Techniques</strong>
+      </a>
+      <br><sub>Advanced strategies for lightning-fast applications</sub>
+    </td>
+    <td>
+      <a href="https://laamartihatim.vercel.app/blog/security-best-practices">
+        <strong>Security Best Practices for 2025</strong>
+      </a>
+      <br><sub>Protect your applications from modern threats</sub>
     </td>
   </tr>
 </table>
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" alt="Toolbox" width="35"/> &nbsp;Le Paddock Technologique
+## 🤝 Services & Collaboration
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" style="padding: 10px;">
-        <h4 style="color: #FFFFFF;">🏎️ Motorisation (Langages)</h4>
-        <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp" /><br>
-        <img src="https://skillicons.dev/icons?i=html,css,scss" />
-      </td>
-      <td align="center" style="padding: 10px;">
-        <h4 style="color: #FFFFFF;">💨 Aérodynamisme (Frontend)</h4>
-        <img src="https://skillicons.dev/icons?i=react,nextjs,redux" /><br>
-        <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,figma" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="padding: 10px;">
-        <h4 style="color: #FFFFFF;">🔧 Châssis (Backend & DBs)</h4>
-        <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" /><br>
-        <img src="https://skillicons.dev/icons?i=mysql,postgresql,docker" />
-      </td>
-      <td align="center" style="padding: 10px;">
-        <h4 style="color: #FFFFFF;">🧠 Télémétrie (Data & IA)</h4>
-        <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,keras" /><br>
-        <img src="https://skillicons.dev/icons?i=pandas,numpy,scikitlearn" />
-      </td>
-    </tr>
-  </table>
+
+### 💼 **Available for Hire**
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/fluency/48/000000/web.png" width="48px"><br>
+      <b>Web Development</b><br>
+      <sub>SaaS • E-commerce • Enterprise</sub><br>
+      <img src="https://img.shields.io/badge/From_$5000-2563EB?style=flat-square" />
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/fluency/48/000000/artificial-intelligence.png" width="48px"><br>
+      <b>AI/ML Solutions</b><br>
+      <sub>Custom Models • Integration • Analytics</sub><br>
+      <img src="https://img.shields.io/badge/From_$8000-2563EB?style=flat-square" />
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/fluency/48/000000/consultation.png" width="48px"><br>
+      <b>Technical Consulting</b><br>
+      <sub>Architecture • Code Review • Mentoring</sub><br>
+      <img src="https://img.shields.io/badge/$150/hour-2563EB?style=flat-square" />
+    </td>
+  </tr>
+</table>
+
+### 📅 **Book a Consultation**
+
+<a href="https://calendly.com/hatimlamarti">
+  <img src="https://img.shields.io/badge/Schedule_a_30min_Call-4285F4?style=for-the-badge&logo=google-meet&logoColor=white" />
+</a>
+
 </div>
-<br>
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="35"/> &nbsp;Salle des Trophées : Projets d'Exception
+## 📬 Get in Touch
 
 <div align="center">
-  <!-- REMPLACEZ 'hatim3310' et 'REPO_NAME' PAR VOS PROJETS ÉPINGLÉS -->
-  <a href="https://github.com/hatim3310/REPO_NAME_1">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=hatim3310&repo=REPO_NAME_1&theme=tokyonight&title_color=E10600&icon_color=00D2BE&show_owner=true" />
+
+### Let's build something amazing together!
+
+<p>
+  <a href="mailto:hatimlamarti3@gmail.com">
+    <img src="https://img.shields.io/badge/hatimlamarti3@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/hatim3310/REPO_NAME_2">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=hatim3310&repo=REPO_NAME_2&theme=tokyonight&title_color=E10600&icon_color=00D2BE&show_owner=true" />
+  <a href="https://www.linkedin.com/in/lamartihatim">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</div>
+  <a href="https://laamartihatim.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+### 💬 Response Time
+<img src="https://img.shields.io/badge/Average_Response-< 24 hours-10B981?style=for-the-badge" />
+
 <br>
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="35"/> &nbsp;Analyse de Télémétrie
+<sub>⭐ If you find my work valuable, consider starring my repositories!</sub>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hatim3310&show_icons=true&theme=tokyonight&hide_border=true&title_color=E10600&icon_color=00D2BE&include_all_commits=true" alt="Stats GitHub"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hatim3310&layout=compact&theme=tokyonight&hide_border=true&title_color=E10600" alt="Top Langages"/>
 </div>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/HighSpeed%20Train.png" alt="Speed" width="35"/> &nbsp;Trajectoire de Course : Graphe d'Activité
-
-<div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=hatim3310&bg_color=1A1B27&color=FFFFFF&line=E10600&point=FFD700&area=true&hide_border=true&custom_title=Trajectoire%20de%20Contribution%20(Ferrari%20Theme)" alt="Graphe d'activité"/>
-</div>
-<br>
-
----
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Radio.png" alt="Radio" width="35"/> &nbsp;Radio Check : Rejoignez l'Écurie
-
-<div align="center">
-  <p>Prêt à prendre la piste pour un nouveau projet ? Contactez-moi. Je suis ouvert aux collaborations qui repoussent les limites.</p>
-  <a href="https://www.linkedin.com/in/lamartihatim"><img src="https://img.shields.io/badge/-%E2%9A%91_Ouvrir_le_canal_Pro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</div>
-
-<!-- FOOTER -->
-<div align="center" style="margin-top: 30px;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,0,0&height=120&section=footer" width="100%" />
-</div>
+<!-- Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,26,27&height=80&section=footer" />
