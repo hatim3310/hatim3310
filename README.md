@@ -64,11 +64,8 @@
 
 | Certification | Issuer | Year | Verification |
 |--------------|--------|------|--------------|
-| **IBM Python for AI & Data Science** | IBM | 2025 | [Verify →](https://www.credly.com/) |
-| **ALX AI Career Essentials** | ALX Africa | 2024 | [Verify →](https://www.alxafrica.com/) |
-| **Advanced React Development** | Meta | 2024 | [Verify →](https://www.coursera.org/) |
-| **Cloud Architecture Professional** | Google Cloud | 2024 | [Verify →](https://cloud.google.com/) |
-
+| **IBM Python for AI & Data Science** | IBM | 2025 |  |
+| **ALX AI Career Essentials** | ALX Africa | 2024 | |
 </div>
 
 ---
@@ -92,78 +89,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">AI-Powered E-Commerce Platform</h3>
-      <div align="center">
-        <a href="https://github.com/hatim3310/ecommerce-ai" target="_blank">
-          <img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge&logo=github" />
-        </a>
-        <a href="https://ecommerce-demo.vercel.app" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Demo-10B981?style=for-the-badge&logo=vercel" />
-        </a>
-      </div>
-      <br>
-      <p><strong>Tech Stack:</strong> Next.js, Python, TensorFlow, PostgreSQL</p>
-      <p>📊 <strong>Impact:</strong> 40% increase in conversion rate</p>
-      <p>🎯 <strong>Features:</strong> Recommendation engine, Dynamic pricing, Real-time analytics</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Real-Time Analytics Dashboard</h3>
-      <div align="center">
-        <a href="https://github.com/hatim3310/analytics-dashboard" target="_blank">
-          <img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge&logo=github" />
-        </a>
-        <a href="https://dashboard-demo.vercel.app" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Demo-10B981?style=for-the-badge&logo=vercel" />
-        </a>
-      </div>
-      <br>
-      <p><strong>Tech Stack:</strong> React, Node.js, WebSocket, MongoDB</p>
-      <p>📊 <strong>Impact:</strong> Processing 100K+ events/second</p>
-      <p>🎯 <strong>Features:</strong> Live data streaming, Custom visualizations, Export capabilities</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Healthcare Management System</h3>
-      <div align="center">
-        <a href="https://github.com/hatim3310/healthcare-system" target="_blank">
-          <img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge&logo=github" />
-        </a>
-        <a href="https://healthcare-demo.vercel.app" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Demo-10B981?style=for-the-badge&logo=vercel" />
-        </a>
-      </div>
-      <br>
-      <p><strong>Tech Stack:</strong> React Native, Express.js, MySQL, Redis</p>
-      <p>📊 <strong>Impact:</strong> Managing 5000+ patient records</p>
-      <p>🎯 <strong>Features:</strong> Appointment scheduling, Medical records, Billing system</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">FinTech Payment Solution</h3>
-      <div align="center">
-        <a href="https://github.com/hatim3310/fintech-payment" target="_blank">
-          <img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge&logo=github" />
-        </a>
-        <a href="https://payment-demo.vercel.app" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Demo-10B981?style=for-the-badge&logo=vercel" />
-        </a>
-      </div>
-      <br>
-      <p><strong>Tech Stack:</strong> Next.js, Stripe API, PostgreSQL, Docker</p>
-      <p>📊 <strong>Impact:</strong> Processing $100K+ transactions monthly</p>
-      <p>🎯 <strong>Features:</strong> Multi-currency, Fraud detection, Instant settlements</p>
-    </td>
-  </tr>
-</table>
-</div>
-
----
 
 ## 🛠️ Technical Expertise
 
