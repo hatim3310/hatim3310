@@ -1,75 +1,61 @@
-<div align="center">
+# Hatim Lamarti
+### Full Stack Engineer • Data Scientist • Solution Architect  
+*Casablanca, Morocco*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0f172a,1e293b&height=120&section=header&text=Hatim%20Lamarti&fontSize=50&fontColor=60a5fa&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20Data%20Scientist%20%7C%20Architect&descAlignY=60&descSize=20&descColor=94a3b8" />
+> "Designing Intelligence. Coding Performance."
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=echo+%22Building+Scalable+Solutions%22;print(%22Data-Driven+Innovation%22);console.log(%22Clean+Architecture%22)" alt="Typing SVG" />
-</a>
+---
 
-</div>
+## 🏗️ Technical Architecture
 
-```text
-root@hatim-lamarti:~$ tree ./portfolio
-.
-├── 📂 Core_Identity
-│   ├── 👨‍💻 Full Stack Engineer
-│   ├── 🧠 Data Scientst
-│   └── 📍 Casablanca, Morocco
-│
-├── �️ Tech_Stack
-│   ├── 🎨 Frontend
-│   │   ├── React.js / Next.js
-│   │   ├── TypeScript
-│   │   └── TailwindCSS
-│   │
-│   ├── ⚙️ Backend
-│   │   ├── Python (Django/FastAPI)
-│   │   ├── Node.js (Express)
-│   │   └── PostgreSQL / MongoDB
-│   │
-│   └── ☁️ Cloud_&_DevOps
-│       ├── AWS / GCP
-│       ├── Docker / Kubernetes
-│       └── CI/CD Pipelines
-│
-└── � Connect_Nodes
-    ├── 🌐 https://portfoliov2-tawny-three.vercel.app/
-    ├── 👔 https://linkedin.com/in/lamartihatim
-    └── 📧 hatimlamarti3@gmail.com
-```
+<p align="left">
 
-<div align="center">
+&nbsp;&nbsp;📂 <b>Core_Stack</b><br>
+&nbsp;&nbsp;│<br>
+&nbsp;&nbsp;├── 💻 <b>Frontend_Layer</b><br>
+&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;├── <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" /><br>
+&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;├── <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /><br>
+&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;└── <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" /><br>
+&nbsp;&nbsp;│<br>
+&nbsp;&nbsp;├── 🧠 <b>Data_&_AI_Layer</b><br>
+&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;├── <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br>
+&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;├── <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /><br>
+&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;└── <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /><br>
+&nbsp;&nbsp;│<br>
+&nbsp;&nbsp;├── ⚙️ <b>Backend_Services</b><br>
+&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;├── <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" /><br>
+&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;├── <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" /><br>
+&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;└── <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /><br>
+&nbsp;&nbsp;│<br>
+&nbsp;&nbsp;└── ☁️ <b>Infrastructure</b><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" /><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
 
-### 🔌 Connected Activity
-
-<p>
-  <a href="https://github.com/hatim3310">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hatim3310&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0f172a&title_color=60a5fa&icon_color=60a5fa"/>
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hatim3310&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=60a5fa&icon_color=60a5fa"/>
-  </a>
 </p>
 
-<!-- Snake Animation for "Connected" feel -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hatim3310&theme=tokyonight&hide_border=true&background=0F172A&stroke=60A5FA&ring=60A5FA&fire=60A5FA&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=60A5FA&sideLabels=94A3AF&dates=94A3AF" width="90%" />
+---
 
-<br/>
+## 📊 Analytics & Impact
 
-### �️ Network & Links
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=hatim3310&show_icons=true&theme=graywhite&hide_border=true&include_all_commits=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hatim3310&layout=compact&theme=graywhite&hide_border=true&langs_count=6" height="150" />
+</div>
 
-<p>
+---
+
+## 🔗 Connect
+
+<p align="left">
   <a href="https://portfoliov2-tawny-three.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_Site-2563EB?style=for-the-badge&logo=vercel&logoColor=white" height="40" />
+    <img src="https://img.shields.io/badge/Website-portfoliov2.vercel.app-blue?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
+  <br>
   <a href="https://www.linkedin.com/in/lamartihatim">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-Hatim_Lamarti-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <br>
   <a href="mailto:hatimlamarti3@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" />
+    <img src="https://img.shields.io/badge/Email-hatimlamarti3@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
-</div>
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0f172a,1e293b&height=80&section=footer" />
-</div>
