@@ -1,7 +1,7 @@
 <div align="center">
 
-<a href="https://portfoliov2-tawny-three.vercel.app/">
-  <img src="https://raw.githubusercontent.com/hatim3310/portfolio26/main/public/assets/logo-hatim-3d-glass.png" alt="Hatim Lamarti — monogramme 3D" width="110" />
+<a href="https://laamarti.space/">
+  <img src="github-profile-assets/logo-hatim-3d-glass.png" alt="Hatim Lamarti — monogramme 3D" width="110" />
 </a>
 
 # HATIM LAMARTI
@@ -13,10 +13,10 @@ Full stack development · AI & data · Casablanca, Morocco
 
 I design and develop websites, applications and AI tools that turn ideas into experiences people can use.
 
-<a href="https://portfoliov2-tawny-three.vercel.app/"><img src="https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-0715B1?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore my portfolio" /></a>
+<a href="https://laamarti.space/"><img src="https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-0715B1?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore my portfolio" /></a>
 <a href="mailto:hatimlamarti3@gmail.com"><img src="https://img.shields.io/badge/START_A_CONVERSATION-07144A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Hatim" /></a>
 
-<img src="https://raw.githubusercontent.com/hatim3310/portfolio26/main/public/assets/hello-3d-glass.png" alt="Hello — 3D glass artwork from Hatim's portfolio" width="460" />
+<img src="github-profile-assets/hello-3d-glass.png" alt="Hello — 3D glass artwork from Hatim's portfolio" width="460" />
 
 </div>
 
@@ -38,24 +38,24 @@ Based in Casablanca, I work on brand websites, web applications, internal tools 
 
 </td>
 <td width="32%" align="center" valign="top">
-<img src="https://raw.githubusercontent.com/hatim3310/portfolio26/main/public/assets/hatim-portrait-v2.jpg" alt="Portrait of Hatim Lamarti" width="220" />
+<img src="github-profile-assets/hatim-portrait-v2.jpg" alt="Portrait of Hatim Lamarti" width="220" />
 </td>
 </tr>
 </table>
 
 ### 01 / SELECTED WORK
 
-Seven projects across digital products, sport, music and internal tools. Explore the full context and scope of each project on my [portfolio](https://portfoliov2-tawny-three.vercel.app/).
+Seven projects across digital products, sport, music and internal tools. Explore the full context and scope of each project on my [portfolio](https://laamarti.space/).
 
 | Project | Focus | Preview |
 | :--- | :--- | :--- |
-| **[NEYOX™](https://neyox.ma/)** | Agency platform · Cofounded agency where I lead engineering, AI integration and data | <img src="https://raw.githubusercontent.com/hatim3310/portfolio26/main/public/projects/neyox.ma.png" alt="Neyox agency website preview" width="230" /> |
-| **FRMR Federation** | Bilingual French / Arabic sports platform · Private rollout | <img src="https://raw.githubusercontent.com/hatim3310/portfolio26/main/public/projects/frmr.png" alt="FRMR Federation platform preview" width="230" /> |
-| **Neyox OS** | Internal workspace for projects, customer relationships and workflows · Private access | <img src="https://raw.githubusercontent.com/hatim3310/portfolio26/main/public/projects/neyoxos.png" alt="Neyox OS preview" width="230" /> |
-| **[BRGNE Records](https://brgne.vercel.app/fr)** | Music showcase, discography and interactive audio experience | <img src="https://raw.githubusercontent.com/hatim3310/portfolio26/main/public/projects/brgne.png" alt="BRGNE Records website preview" width="230" /> |
-| **[F1 Velocity](https://f1-velocity-analytics.vercel.app/)** | Formula 1 telemetry application | <img src="https://raw.githubusercontent.com/hatim3310/portfolio26/main/public/projects/f1.png" alt="F1 Velocity application preview" width="230" /> |
-| **[BDE EFET Hub](https://bdeefet.vercel.app/)** | Student portal | <img src="https://raw.githubusercontent.com/hatim3310/portfolio26/main/public/projects/bde.png" alt="BDE EFET Hub preview" width="230" /> |
-| **[Adil Boutahli](https://adilboutahli.com)** | Athlete platform · Road to LA 2028 | <img src="https://raw.githubusercontent.com/hatim3310/portfolio26/main/public/projects/adile.png" alt="Adil Boutahli platform preview" width="230" /> |
+| **[NEYOX™](https://neyox.ma/)** | Agency platform · Cofounded agency where I lead engineering, AI integration and data | <img src="github-profile-assets/neyox.ma.png" alt="Neyox agency website preview" width="230" /> |
+| **FRMR Federation** | Bilingual French / Arabic sports platform · Private rollout | <img src="github-profile-assets/frmr.png" alt="FRMR Federation platform preview" width="230" /> |
+| **Neyox OS** | Internal workspace for projects, customer relationships and workflows · Private access | <img src="github-profile-assets/neyoxos.png" alt="Neyox OS preview" width="230" /> |
+| **[BRGNE Records](https://brgne.vercel.app/fr)** | Music showcase, discography and interactive audio experience | <img src="github-profile-assets/brgne.png" alt="BRGNE Records website preview" width="230" /> |
+| **[F1 Velocity](https://f1-velocity-analytics.vercel.app/)** | Formula 1 telemetry application | <img src="github-profile-assets/f1.png" alt="F1 Velocity application preview" width="230" /> |
+| **[BDE EFET Hub](https://bdeefet.vercel.app/)** | Student portal | <img src="github-profile-assets/bde.png" alt="BDE EFET Hub preview" width="230" /> |
+| **[Adil Boutahli](https://adilboutahli.com)** | Athlete platform · Road to LA 2028 | <img src="github-profile-assets/adile.png" alt="Adil Boutahli platform preview" width="230" /> |
 
 ### 02 / WHAT I CAN BUILD
 
@@ -87,9 +87,9 @@ Have a project in mind? Send me a few lines about your idea, goals and timeline.
 
 <div align="center">
 
-[**Portfolio**](https://portfoliov2-tawny-three.vercel.app/) · [**LinkedIn**](https://www.linkedin.com/in/lamartihatim) · [**GitHub**](https://github.com/hatim3310) · [**Email**](mailto:hatimlamarti3@gmail.com)
+[**Portfolio**](https://laamarti.space/) · [**LinkedIn**](https://www.linkedin.com/in/lamartihatim) · [**GitHub**](https://github.com/hatim3310) · [**Email**](mailto:hatimlamarti3@gmail.com)
 
-<img src="https://raw.githubusercontent.com/hatim3310/portfolio26/main/public/assets/lamarti-signature.png" alt="Lamarti signature" width="180" />
+<img src="github-profile-assets/lamarti-signature.png" alt="Lamarti signature" width="180" />
 
 <sub>Designed with intention. Developed in Casablanca.</sub>
 
